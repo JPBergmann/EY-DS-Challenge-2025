@@ -1,13 +1,16 @@
 # EY-DS-Challenge-2025
 
-This repository contains the code and workflow I used to build my dataset and models for the **2025 EY Open Data & AI Challenge – Cooling Urban Heat Islands**.
+![Landing](images/covering.png)
+
+This repository contains the code and workflow I used to build my dataset and models for the **2025 EY Open Data & AI Challenge – Cooling Urban Heat Islands**  
+🔗 [Challenge Website](https://challenge.ey.com)
 
 The main explanation of my approach, along with the code to reproduce my results, can be found in the notebook:
 
 📘 **`Model Assessment John Bergmann.ipynb`**
 
 To run the notebook successfully:
-- Install the required libraries (Tested with Python 3.12.9):
+- Install the required libraries (tested with Python 3.12.9):
 
   ```bash
   pip install -r requirements.txt
@@ -21,13 +24,13 @@ To run the notebook successfully:
 ## 🏆 Results
 
 The final model achieves a **validation R² score of 98.16%** using **58 features**.  
-This solution was awarded **2nd place (First Runner-Up)** in the 2025 EY Open Data & AI Challenge.
+This solution was awarded **2nd place (First Runner-Up)** in the 2025 EY Open Data & AI Challenge (EY Participants).
 
 ---
 
 ## 🛠️ Additional Scripts
 
-These scripts were primarily used during development and can be executed in the following order for replicating the workflow:
+These scripts were primarily used during development and can be executed in the following order to replicate the workflow:
 
 | Step | File | Description |
 |------|------|-------------|
