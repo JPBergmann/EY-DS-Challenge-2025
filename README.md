@@ -24,7 +24,7 @@ To run the notebook successfully:
 ## 🏆 Results
 
 The final model achieves a **validation R² score of 98.16%** using **58 features**.  
-This solution was awarded **2nd place (First Runner-Up)** in the 2025 EY Open Data & AI Challenge (EY Participants).
+This solution was awarded **2nd place (Global First Runner-Up)** in the 2025 EY Open Data & AI Challenge (EY Participants).
 
 ---
 
