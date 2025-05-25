@@ -1,6 +1,6 @@
 # EY-DS-Challenge-2025
 
-![Landing](images/covering.png)
+![Landing](images/covering.jpg)
 
 This repository contains the code and workflow I used to build my dataset and models for the **2025 EY Open Data & AI Challenge – Cooling Urban Heat Islands**  
 🔗 [Challenge Website](https://challenge.ey.com)
