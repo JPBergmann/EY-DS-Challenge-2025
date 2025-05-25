@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# DATA
+/DATA/processed/*
+/DATA/raw/*
+
+# Mac Stuff
+.DS_Store
+
+# ARCHIVE
+/ARCHIVE
